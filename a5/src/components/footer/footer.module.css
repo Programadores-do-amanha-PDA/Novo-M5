@@ -1,0 +1,8 @@
+.footer {
+  width: 100%;
+  background-color: aqua;
+  display: flex;
+  gap: 3px;
+  color: black;
+  padding: 5px;
+}

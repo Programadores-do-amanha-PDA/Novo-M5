@@ -1,0 +1,4 @@
+.Pai {
+  display: flex;
+  flex-direction: column;
+}

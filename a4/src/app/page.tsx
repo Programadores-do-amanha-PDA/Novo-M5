@@ -18,7 +18,7 @@ export default function Home() {
         display="flex"
       >
         <p>LOGO</p>
-        <p>Título</p>
+        <p>Título</p>cl
         <Menu>
           <ul>
             <li>Menu</li>
@@ -30,22 +30,6 @@ export default function Home() {
         <h1>titulo da página</h1>
         <section></section>
       </main> */}
-
-      <Card
-        style={{
-          width: "500px",
-          height: "150px",
-          backgroundColor: "#f1f1f1",
-          color: "#212121",
-        }}
-      >
-        <h2>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique
-          error ipsam voluptatum quisquam ducimus, nam necessitatibus ipsum
-          assumenda placeat officiis! Illum vitae perferendis recusandae soluta
-          repellat qui quod omnis doloribus?
-        </h2>
-      </Card>
 
       <Card
         style={{
